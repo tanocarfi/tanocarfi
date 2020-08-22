@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaetano Carfì</h1>
-<h3 align="center">I'm a Steve Jobs Academy student 🇮🇹, appassionate about technology 💻📱⌚️ and photography 📷.</h3>
+<h3 align="center">I'm a Steve Jobs Academy student 🇮🇹, passionate about technology 💻📱⌚️ and photography 📷.</h3>
 
 ___
 
