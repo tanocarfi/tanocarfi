@@ -41,6 +41,11 @@ I'm a **Web Developer** and i'm passionate about **technology** 💻📱 and **p
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## 🏆 GitHub Trophies
+<p align="center" style="witdh:100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanocarfi&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</p>
+
 ## 📈 GitHub Stats
 
 <p align = "center">
