@@ -48,10 +48,10 @@ I'm a **Web Developer** and i'm passionate about **technology** 💻📱 and **p
 
 ## 📈 GitHub Stats
 <p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanocarfi&show_icons=true&count_private=true&hide_border=true&line_height=25"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanocarfi&theme=dracula&show_icons=true&count_private=true&hide_border=true&line_height=25"/>
 </p>
 <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanocarfi&show_icons=true&count_private=true&hide_border=true&line_height=25" alt="tanocarfi">
+    <img src="https://github-readme-stats.vercel.app/api?username=tanocarfi&theme=dracula&show_icons=true&count_private=true&hide_border=true&line_height=25" alt="tanocarfi">
 </p>
 
 ---
