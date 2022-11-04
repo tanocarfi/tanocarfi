@@ -16,7 +16,7 @@ I'm a **Web Developer** and i'm passionate about **technology** 💻📱 and **p
 
 ## 💻 Framework and Libraries
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![AngularJS](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -47,7 +47,9 @@ I'm a **Web Developer** and i'm passionate about **technology** 💻📱 and **p
 </p>
 
 ## 📈 GitHub Stats
-
+<p align = "center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanocarfi&show_icons=true&count_private=true&hide_border=true&line_height=25"/>
+</p>
 <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=tanocarfi&show_icons=true&count_private=true&hide_border=true&line_height=25" alt="tanocarfi">
 </p>
