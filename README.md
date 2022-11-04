@@ -1,41 +1,51 @@
-<h1 align="center">Hi 👋, I'm Gaetano Carfì</h1>
-<h3 align="center">I'm a Web Developer at Darwin Technologies 🇮🇹, passionate about technology 💻📱⌚️ and photography 📷.</h3>
+# Hi 👋, I'm Gaetano
 
-___
+I'm a **Web Developer** and i'm passionate about **technology** 💻📱 and **photography** 📷.
 
-<details open>
-<summary>💻 <b>My knowledges</b>: </summary>
+## 🚀 Current situation
+- 👨‍💻 I'm currently working at Darwin Technologies SRL (Catania)
+- 📚 I'm currently learning Single-SPA for create Micro-Frontend application
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-282C34?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap)
+## 👨‍💻 Programming Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-### Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933.svg?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+## 💻 Framework and Libraries
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AngularJS](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=ffffff)
+## 💾 Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-</details>
+## ⚙️ IDE & Editors
+![VisualStudioCode](	https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-___
+## 🔨 Productivity Tools
+![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+![Windowsterminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
+## 🦾 Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<details open>
- <summary>📊 <b>GitHub stats</b>: </summary>
+## 📱🖥️ OS
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<br>
+## 📈 GitHub Stats
 
 <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=tanocarfi&show_icons=true&count_private=true&hide_border=true&line_height=25" alt="tanocarfi">
 </p>
 
-</details>
+---
+<p align="center"> © 2022 Gaetano Carfì, all rights reserved. Made with ❤️. </p>
