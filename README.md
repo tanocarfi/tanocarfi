@@ -4,7 +4,6 @@ I'm a **Web Developer** and i'm passionate about **technology** 💻📱 and **p
 
 ## 🚀 Current situation
 - 👨‍💻 I'm currently working at Darwin Technologies SRL (Catania)
-- 📚 I'm currently learning Single-SPA for create Micro-Frontend application
 
 ## 👨‍💻 Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,24 +20,24 @@ I'm a **Web Developer** and i'm passionate about **technology** 💻📱 and **p
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## 💾 Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
 ## ⚙️ IDE & Editors
 ![VisualStudioCode](	https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 🔨 Productivity Tools
-![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Windowsterminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 ## 🦾 Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+## 🌐 Browsers
+![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+
 ## 📱🖥️ OS
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🏆 GitHub Trophies
 <p align="center" style="witdh:100%">
@@ -51,6 +50,9 @@ I'm a **Web Developer** and i'm passionate about **technology** 💻📱 and **p
 </p>
 <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=tanocarfi&theme=dracula&show_icons=true&count_private=true&hide_border=true&line_height=25" alt="tanocarfi">
+</p>
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanocarfi&theme=dracula">
 </p>
 
 ---
